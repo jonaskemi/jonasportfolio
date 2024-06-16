@@ -1,0 +1,12 @@
+.badstu{
+    border: 1px solid black;
+    padding: 60px;
+    width: 600px;
+    background-color: aqua;
+    margin-bottom: 25%;
+    font-size: 30px;
+}
+.badstuhead{
+    margin-left: 30%;
+    margin-top: 10%;
+}
